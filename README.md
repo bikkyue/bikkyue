@@ -1,8 +1,6 @@
 # bikkyue (びっきゅ)
 
-## About me
-
-I'm a software engineer at a system integrator
+software engineer at a system integrator
 
 ## Links
 
